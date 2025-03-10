@@ -1,10 +1,11 @@
-## Hi there 👋
-Ola meu nome é Pedro
+## Ola meu nome é Pedro 👋
 
 **linguagens que estou esrtudando**
 - Python
 - css
 - HTML
+
+
 <!--
 **pedrao2109/pedrao2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
