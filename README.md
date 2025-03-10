@@ -1,9 +1,15 @@
 ## Ola meu nome é Pedro 👋
 
-**linguagens que estou esrtudando**
+**linguagens que estou estudando**
 - Python
 - css
 - HTML
+
+**Meus projetos**
+1. 70 exercícios em python
+2. site em HTML
+3. Projeto do spotipy
+
 
 
 <!--
