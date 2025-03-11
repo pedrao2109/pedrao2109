@@ -7,9 +7,9 @@
 - 📕 HTML
 
 **Meus projetos**
-💼 70 exercícios em python
-💼 site em HTML
-💼 Projeto do spotipy
+- 💼 70 exercícios em python
+- 💼 site em HTML
+- 💼 Projeto do spotipy
 
 
 
