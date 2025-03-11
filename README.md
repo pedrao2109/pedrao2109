@@ -2,9 +2,9 @@
 
 🙋‍♂️ Meu nome é Pedro tenho 17 anos 
 **linguagens que estou estudando**
-📕 Python
-📕 css
-📕 HTML
+- 📕 Python
+- 📕 css
+- 📕 HTML
 
 **Meus projetos**
 💼 70 exercícios em python
