@@ -4,7 +4,7 @@
 **linguagens que estou estudando**
 - 📕 Python
 - 📕 css
-- 📕 HTML
+- 📕 HTML 
 
 **Meus projetos**
 - 💼 70 exercícios em python
