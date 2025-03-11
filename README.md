@@ -1,14 +1,15 @@
-## Ola meu nome é Pedro 👋
+## Bem vindo ao meu perfil 👋
 
+🙋‍♂️ Meu nome é Pedro tenho 17 anos 
 **linguagens que estou estudando**
-- Python
-- css
-- HTML
+📕 Python
+📕 css
+📕 HTML
 
 **Meus projetos**
-1. 70 exercícios em python
-2. site em HTML
-3. Projeto do spotipy
+💼 70 exercícios em python
+💼 site em HTML
+💼 Projeto do spotipy
 
 
 
