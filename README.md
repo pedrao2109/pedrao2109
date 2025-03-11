@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil 👋
 
-🙋‍♂️ Meu nome é Pedro tenho 17 anos 
+🙋‍♂️ Meu nome é Pedro tenho 17 anos  
 **linguagens que estou estudando** 
 - 📕 Python
 - 📕 css
